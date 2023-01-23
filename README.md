@@ -6,7 +6,7 @@ it chatGPT in openAI
 
 ## Testing Image
 
-ㅅit works in phyiscal device
+it works in phyiscal device
 maybe it use real device performance so... just my think..
 
 - amul
